@@ -103,6 +103,10 @@ screenshots pulled from the TV. With this repo as context it takes about fifteen
 And a TV that stops working against you: no sponsored rows, no "Discover" nags, no analytics
 phoning home, no apps you never asked for.
 
+Removing the recent row is the one thing people miss. [Rate My TV](https://github.com/nikhiltalreja/ratemytv)
+puts it back on demand: a card over the player with what this TV has watched, IMDb and
+Rotten Tomatoes scores, and one press to resume. Bind it to a hold in `key_remaps_hold`.
+
 | | |
 |---|---|
 | ![The top shelf names the focused app over an ambient glow in its colour](docs/focus-2-up-netflix.png) | ![The Inputs popup: HDMI ports with what is connected, AV and Live TV](docs/inputs-menu.jpg) |
